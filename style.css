@@ -1,0 +1,37 @@
+@font-face {
+    font-family: MuseoSans;
+    src: url(MuseoSans_500.otf);
+}
+*{
+    margin: 2px;
+    padding: 10px;
+    background-color: #303030;
+    color: azure;
+    font-family: MuseoSans;
+    letter-spacing: 1px;
+    
+    
+
+}
+
+p{
+   padding-top: 20px;
+   padding-bottom: 20px; 
+    
+}
+#command{
+    color: #3EB489;
+    padding-bottom: 20px;
+}
+body{
+    
+    margin: auto;
+    padding-left: 100p;
+    
+}
+#header{
+    color: #3EB489;
+}
+
+
+
