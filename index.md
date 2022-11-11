@@ -1,3 +1,3 @@
-# how did you get here
+# How did you get here
 
-[eventviewer](https://heyimmodding.github.io/WwiseRor2EventsWIkiPage/Eventviewer)
+[Event Viewer](https://heyimmodding.github.io/WwiseRor2EventsWIkiPage/Eventviewer)
